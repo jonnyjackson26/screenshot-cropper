@@ -1,0 +1,1 @@
+take screenshots with sharex (so it doesnt overwrite ur clipboard) full page of the steps of solving a leetcode problem
