@@ -1,1 +1,4 @@
-take screenshots with sharex (so it doesnt overwrite ur clipboard) full page of the steps of solving a leetcode problem
+put full page screenshots in the screenshots/ folder  
+run crop_screenshots.py  
+select the region  
+all screenshots will be cropped by the region you selected and overwritten 
